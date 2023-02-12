@@ -1,0 +1,15 @@
+1. assign the value 1 or 0 to isA
+2. the result is 0
+3. the range is not enough
+4. the result is 1
+5. no result is returned
+6. invalid operands of types 'int' and 'const char [6]' to binary 'operator*'
+7. the 1st: 0
+   the 2nd: 0.75
+   the 3rd: 0.75
+   the 4th: 0.75
+8. conflicting declaration "arg1"
+9, 10. in the sub-command block, variable "arg1" is the one which has the data type char
+11. the equation "5/9" must have the type double or float
+    (eg: double C = (F - 32) * (5.0000/9);)
+12. the output is "Here"
